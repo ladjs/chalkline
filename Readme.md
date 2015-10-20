@@ -1,13 +1,13 @@
 
 <h1 align="center">
-  <img width="500" src="https://cdn.rawgit.com/niftylettuce/chalkline/media/logo.svg" alt="chalkline" />
-  <img alt="chalkline screenshot" src="https://cdn.rawgit.com/niftyletuce/chalkline/media/screenshot.png" />
+  <img width="500" src="https://cdn.rawgit.com/niftylettuce/chalkline/master/media/logo.svg" />
+  <img alt="chalkline screenshot" src="https://cdn.rawgit.com/niftylettuce/chalkline/master/media/screenshot.png" />
 </h1>
 
 > Draw a big chalkline in your terminal!
 
 [![MIT License][license-image]][license-url]
-[![Unicorn Approved][unicorn-approved][unicorn-url]
+[![Unicorn Approved][unicorn-approved]][unicorn-url]
 
 
 ## Install
