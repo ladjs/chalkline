@@ -1,6 +1,6 @@
 {
   "name": "chalkline",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "chalkline draws a horizontal line in your console to help you easily debug and see what you're looking for",
   "main": "index.js",
   "scripts": {
@@ -29,5 +29,5 @@
   "engines": {
     "node": ">=0.10.0"
   },
-  "repository": "niftylettuce/chalklines"
+  "repository": "niftylettuce/chalkline"
 }
