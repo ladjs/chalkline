@@ -1,0 +1,33 @@
+{
+  "name": "chalkline",
+  "version": "0.0.1",
+  "description": "chalkline draws a horizontal line in your console to help you easily debug and see what you're looking for",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chalk",
+    "line",
+    "chalkline",
+    "horizontal",
+    "bar",
+    "console",
+    "logger",
+    "logging",
+    "debug",
+    "utility",
+    "easy"
+  ],
+  "author": "Nick Baugh <niftylettuce@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ansi-styles": "^2.1.0",
+    "chalk": "^1.1.1",
+    "escape-string-regexp": "^1.0.3"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "repository": "niftylettuce/chalklines"
+}

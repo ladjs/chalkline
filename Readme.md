@@ -1,0 +1,49 @@
+
+<h1 align="center">
+  <img width="500" src="https://cdn.rawgit.com/niftylettuce/chalkline/media/logo.svg" alt="chalkline" />
+  <img alt="chalkline screenshot" src="https://cdn.rawgit.com/niftyletuce/chalkline/media/screenshot.png" />
+</h1>
+
+> Draw a big chalkline in your terminal!
+
+[![MIT License][license-image]][license-url]
+[![Unicorn Approved][unicorn-approved][unicorn-url]
+
+
+## Install
+
+```bash
+npm install --save chalkline
+```
+
+
+## Usage
+
+Chalkline extends the [chalk][chalk] package, so you can log any color line to the console.
+
+```js
+var cl = require('chalkline');
+
+cl.green();
+cl.blue.bgMagenta();
+cl.white();
+cl.bgYellow.red();
+```
+
+
+## Colors and Background colors
+
+Please see [chalk's colors][chalks-colors] for a list of supported colors and background colors for your chalklines.
+
+
+## License
+
+[MIT][license-url]
+
+
+[chalk]: https://github.com/chalk/chalk
+[chalks-colors]: https://github.com/chalk/chalk#colors
+[license-image]: http://img.shields.io/badge/license-MIT-blue.svg?style=flat
+[license-url]: LICENSE
+[unicorn-approved]: http://img.shields.io/badge/unicorn-approved-ff69b4.svg
+[unicorn-url]: https://www.youtube.com/watch?v=9auOCbH5Ns4
