@@ -9,6 +9,10 @@
 [![MIT License][license-image]][license-url]
 [![Unicorn Approved][unicorn-approved]][unicorn-url]
 
+<h4 align="center">
+  <a href="http://www.clevertech.biz/?ref=chalkline"><img width="300" src="https://s3.amazonaws.com/filenode/logo-black.png" /></a>
+</h4>
+
 
 ## Install
 
