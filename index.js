@@ -10,7 +10,12 @@ var util = require('util');
 var chalk = require('chalk');
 var block = "\u2588";
 
-var str = new Array(process.stdout.columns + 1).join(block);
+var columns = 80;
+
+if (process.stdout.isTTY && process.stdout.columns)
+  columns = process.stdout.columns;
+
+var str = new Array(columns + 1).join(block);
 
 var styles = (function () {
 	var ret = {};
