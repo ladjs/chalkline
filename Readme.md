@@ -9,10 +9,6 @@
   <img alt="chalkline screenshot" src="https://cdn.rawgit.com/niftylettuce/chalkline/master/media/screenshot.png" />
 </h1>
 
-<h4 align="center">
-  <p>Sponsored by <a href="http://www.clevertech.biz/?ref=chalkline">Clevertech</a></p>
-  <a href="http://www.clevertech.biz/?ref=chalkline"><img width="300" src="https://s3.amazonaws.com/filenode/logo-black.png" /></a>
-</h4>
 
 ## Install
 
