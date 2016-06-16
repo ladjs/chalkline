@@ -1,6 +1,6 @@
 {
   "name": "chalkline",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "chalkline draws a horizontal line in your console to help you easily debug and see what you're looking for",
   "main": "index.js",
   "scripts": {
