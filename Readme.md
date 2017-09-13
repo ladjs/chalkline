@@ -12,6 +12,8 @@
 
 ## Install
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/niftylettuce/chalkline.svg)](https://greenkeeper.io/)
+
 ```bash
 npm install --save chalkline
 ```
